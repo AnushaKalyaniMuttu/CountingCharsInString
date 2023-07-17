@@ -7,10 +7,7 @@ import java.util.stream.Collectors;
 
 public class GroupingBy {
     public static void main(String[] args) {
-		/*
-		 * 15. Write a program in given array even number should come last Input array:
-		 * [1,2 ,3,4 7] Output array: [1,3,7,2,4]
-		 */
+		
     String name="Welcome to farmers!";
     List<Character> characters=new ArrayList<>();
     for(char c:name.toCharArray()) {
